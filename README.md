@@ -9,7 +9,7 @@ $ git clone https://github.com/MaTin-SoFtWaRe/Kak-Matin
 
 $ cd Kak-Matin
 
-$ python Kak-Matin.py
+$ python Kak-MaTin.py
 
 
 
